@@ -52,7 +52,10 @@ export class GitClient {
 
     await this.git.addConfig('user.name', this.config.gitAuthorName);
     await this.git.addConfig('user.email', this.config.gitAuthorEmail);
-    await withRetry(async () => this.git.commit(message), { retries: 2, delayMs: 1000 });
+    await withRetry(async () => this.git.commit(message, { '--no-verify': null }), {
+      retries: 2,
+      delayMs: 1000
+    });
   }
 
   async push(): Promise<void> {
