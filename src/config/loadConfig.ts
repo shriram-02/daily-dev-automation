@@ -44,9 +44,8 @@ export function loadConfig(): AppConfig {
     quietHoursStart: process.env.DDA_QUIET_HOURS_START ?? jsonConfig.quietHours?.start ?? '22:00',
     quietHoursEnd: process.env.DDA_QUIET_HOURS_END ?? jsonConfig.quietHours?.end ?? '06:00',
     allowedBranch: process.env.DDA_ALLOWED_BRANCH ?? jsonConfig.allowedBranch ?? 'main',
-    gitAuthorName: process.env.DDA_GIT_AUTHOR_NAME ?? 'daily-dev-automation',
-    gitAuthorEmail:
-      process.env.DDA_GIT_AUTHOR_EMAIL ?? '41898282+github-actions[bot]@users.noreply.github.com',
+    gitAuthorName: process.env.DDA_GIT_AUTHOR_NAME ?? 'Shriram Lahane',
+    gitAuthorEmail: process.env.DDA_GIT_AUTHOR_EMAIL ?? 'lahaneshriram2@gmail.com',
     workspaceRoot: path.resolve(process.cwd())
   };
 
