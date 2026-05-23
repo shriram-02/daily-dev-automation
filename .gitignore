@@ -1,0 +1,27 @@
+# Dependencies and builds
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local runtime state
+.env
+.env.*
+!.env.example
+logs/*.log
+
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+github-token*
+secrets.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

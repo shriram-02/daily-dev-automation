@@ -1,0 +1,20 @@
+{
+  "maxCommitsPerDay": 8,
+  "minMinutesBetweenCommits": 90,
+  "quietHours": {
+    "start": "22:00",
+    "end": "06:00"
+  },
+  "timezone": "America/Indianapolis",
+  "allowedBranches": ["main"],
+  "tasks": [
+    "daily-learning-notes",
+    "developer-statistics",
+    "engineering-resources",
+    "project-ideas",
+    "activity-dashboard",
+    "todo-tracking",
+    "changelog-summary",
+    "programming-tips-dataset"
+  ]
+}

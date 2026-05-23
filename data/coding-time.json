@@ -1,0 +1,9 @@
+{
+  "sessions": [
+    {
+      "source": "example",
+      "minutes": 45,
+      "note": "Replace this with local editor-exported coding time if desired."
+    }
+  ]
+}

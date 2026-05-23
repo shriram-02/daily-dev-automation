@@ -1,0 +1,13 @@
+title = "daily-dev-automation secret scanning"
+
+[[rules]]
+id = "generic-api-token"
+description = "Generic API token assignment"
+regex = '''(?i)(api[_-]?key|token|secret|password)\s*[:=]\s*['"][A-Za-z0-9_\-]{20,}['"]'''
+tags = ["key", "token", "generic"]
+
+[[rules]]
+id = "github-token"
+description = "GitHub token"
+regex = '''gh[pousr]_[A-Za-z0-9_]{36,255}'''
+tags = ["github", "token"]
