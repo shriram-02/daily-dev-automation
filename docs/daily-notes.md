@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-05-31
+Date: 2026-06-01
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Keep dependency updates boring: small batches, changelog review, and test runs.
+- Write failing tests for bug fixes before changing production code.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
