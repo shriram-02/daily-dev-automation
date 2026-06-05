@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-06-04
+Date: 2026-06-05
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Make logs structured enough to answer who, what, when, and why quickly.
+- Treat configuration validation as part of the application boundary.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
