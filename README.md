@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/shriram7057/shriram7057/blob/22cc78cf0281155b1e357eaf040c15f10ea1298b/Daily_Dev_Automation_Report.pdf">
+  <a href="https://drive.google.com/file/d/1A_7FNnvhso6z599ERiDhHAH-taXaNrPa/view?usp=drive_link">
     <img
       src="https://img.shields.io/badge/📊%20VIEW%20DETAILED%20REPORT📑-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF&labelColor=DC2626&color=06B6D4"
       alt="Detailed Report"
