@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-06-14
+Date: 2026-06-15
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Use least-privilege tokens and rotate credentials on a predictable schedule.
+- Skip automation work when there is no real content change.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
