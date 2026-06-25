@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-06-24
+Date: 2026-06-25
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Prefer small pull requests that reviewers can reason about in one sitting.
+- Write failing tests for bug fixes before changing production code.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
