@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-06-30
+Date: 2026-07-01
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Use least-privilege tokens and rotate credentials on a predictable schedule.
+- Treat configuration validation as part of the application boundary.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
