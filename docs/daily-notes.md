@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-07-19
+Date: 2026-07-20
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Skip automation work when there is no real content change.
+- Prefer small pull requests that reviewers can reason about in one sitting.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
