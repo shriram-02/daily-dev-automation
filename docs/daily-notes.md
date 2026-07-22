@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-07-21
+Date: 2026-07-22
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Write failing tests for bug fixes before changing production code.
+- Document operational assumptions near the code that depends on them.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
