@@ -1,11 +1,11 @@
 # Daily Engineering Notes
 
-Date: 2026-07-22
+Date: 2026-07-23
 Timezone: America/Indianapolis
 
 ## Learning Focus
 
-- Document operational assumptions near the code that depends on them.
+- Keep dependency updates boring: small batches, changelog review, and test runs.
 - Review one recent change and confirm the README or docs still match the behavior.
 - Capture one follow-up task only if it is actionable.
 
